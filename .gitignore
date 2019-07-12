@@ -1,0 +1,6 @@
+images/
+.DS_Store
+test_ip.py
+*.txt
+*.ipynb_checkpoints
+links_small.csv 
